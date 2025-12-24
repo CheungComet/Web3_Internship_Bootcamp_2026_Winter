@@ -3,6 +3,8 @@
 ## 介绍
 
 「Web3 实习计划」是一个面向高校学生与 Web3 新人的成长型入门项目，由 ETHPanda 与 LXDAO 联合发起，致力于为渴望进入区块链行业的新人提供系统学习、实战训练、岗位对接与社区陪伴，帮助他们跨越信息门槛、打通实践路径，顺利迈出进入 Web3 的第一步。
+
+
 ## 关键词
 
 Web3, 实习
@@ -28,7 +30,7 @@ Web3, 实习
 
   [ETHPanda](https://ethpanda.org/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/10aed40b-4786-4c2b-aaaa-b7d8a119c00e.png" />
 
-  [LXDAO](https://x.com/LXDAO_Official) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
 
 
 ## 请假规则
@@ -41,17 +43,26 @@ Web3, 实习
 Telegram：
 ## 学习资料/课程安排
 
-学习内容
+- 实习手册：https://web3intern.xyz/
+- Speedrun Ethereum：https://speedrunethereum.com/
+- 021 Ethereum：https://github.com/XiaoHai67890/021Ethereum
 
 
 ## 共学激励
 
-学到知识就是最大的福利！
+本次实习计划将采用学分机制，按照学分排序，我们会给予相应的奖励，包括但不限于：
+
+- 优先内推和对接实习机会
+- 获得 ETHPanda、LXDAO 以及合作伙伴的海量周边和学习大礼包
+- 获得由 OneKey 赞助的硬件钱包空投，以及 NODIT 赞助的 Credit
+- 等等
 
 
 ## 更多信息
 
-更多信息内容
+本次计划的实施离不开各位合作伙伴的支持！
+
+感谢刘兵（南塘 DAO）、OGBC Innovation Hub、ScalingX、Kite AI 的资金支持。感谢以太坊基金会 Dev Growth 团队提供课程设计与资源支持。感谢 OneKey 提供硬件钱包赞助。感谢 NODIT 提供资源赞助。
 
 
 ## 报名和打卡规则
