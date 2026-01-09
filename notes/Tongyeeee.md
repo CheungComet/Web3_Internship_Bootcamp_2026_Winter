@@ -10,7 +10,7 @@ timezone: UTC+1
 
 ## Self-introduction
 
-计算机本科在读
+刚接触web3
 
 ## Notes
 
