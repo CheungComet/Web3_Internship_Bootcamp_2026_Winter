@@ -740,7 +740,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [QqqqXxxx72](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/QqqqXxxx72.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [MaiMcdull](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/MaiMcdull.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [JiwaiGY](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/JiwaiGY.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Dead0Fire](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Dead0Fire.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
