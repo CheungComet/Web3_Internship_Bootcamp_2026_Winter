@@ -802,7 +802,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [wangherman666-lab](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/wangherman666-lab.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Clementine-duo](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Clementine-duo.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [llx233058-afk](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/llx233058-afk.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [WongKaraWong](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/WongKaraWong.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
