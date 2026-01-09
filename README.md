@@ -806,7 +806,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [HardyAllen](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/HardyAllen.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [BenJavayang](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/BenJavayang.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [sunkiYang](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/sunkiYang.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Yvonneeee119](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Yvonneeee119.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
