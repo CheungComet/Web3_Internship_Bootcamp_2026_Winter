@@ -746,7 +746,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [Halo0703](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Halo0703.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [AENSTERM](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/AENSTERM.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yizhilee](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yizhilee.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [ARarsenic](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ARarsenic.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
