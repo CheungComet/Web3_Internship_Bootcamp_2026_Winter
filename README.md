@@ -910,7 +910,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [SydneyMCDonaldbigking](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/SydneyMCDonaldbigking.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yukeye524](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yukeye524.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [chrfairy7-pixel](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/chrfairy7-pixel.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [climber-bot](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/climber-bot.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
