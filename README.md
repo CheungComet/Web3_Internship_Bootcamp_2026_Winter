@@ -965,7 +965,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [shinn-01](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/shinn-01.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Fhh-a](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Fhh-a.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [NinaChow09](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/NinaChow09.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Frankentucky](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Frankentucky.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
