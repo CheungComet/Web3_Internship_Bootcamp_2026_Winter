@@ -10,7 +10,11 @@ timezone: UTC+8
 
 ## Self-introduction
 
-# 👋 Hi, I'm Hassan | Founder & Explorer
+👋 Hi, I'm Hassan | Founder & Explorer
+
+🚀 Deciphering Civilizations, Scaling Trust through Web3
+
+I am the founder of Transvivid, where we integrate TCM (Traditional Chinese Medicine) with AI and Blockchain to build trust-less health infrastructure for the Global South (Middle East, Africa, and LATAM).
 
 ### 🚀 Deciphering Civilizations, Scaling Trust through Web3
 
