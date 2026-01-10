@@ -869,7 +869,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [Tsuki-png-cloud](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Tsuki-png-cloud.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Amireux123138](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Amireux123138.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [jd970311](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/jd970311.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Ver0n1ca0703](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Ver0n1ca0703.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
