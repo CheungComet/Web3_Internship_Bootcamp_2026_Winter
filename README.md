@@ -895,7 +895,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [zmanfei0316-stack](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/zmanfei0316-stack.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [baikingrio](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/baikingrio.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [chip-cmyk](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/chip-cmyk.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [jiushu-web3](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/jiushu-web3.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
