@@ -912,7 +912,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [chrfairy7-pixel](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/chrfairy7-pixel.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [climber-bot](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/climber-bot.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [ChaoQun-Z](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ChaoQun-Z.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [DDDIABLE](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/DDDIABLE.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
