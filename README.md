@@ -816,7 +816,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [janeweng88](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/janeweng88.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [beeb-0](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/beeb-0.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [linwu5913-netizen](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/linwu5913-netizen.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [qq1638342638-rgb](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/qq1638342638-rgb.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
