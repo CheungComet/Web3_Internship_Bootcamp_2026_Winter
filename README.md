@@ -819,7 +819,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [qq1638342638-rgb](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/qq1638342638-rgb.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [AndyLuffy](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/AndyLuffy.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Justforru](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Justforru.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [chocopompon](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/chocopompon.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
