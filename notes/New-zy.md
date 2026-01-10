@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-大数据专业学习中
+学习中
 
 ## Notes
 
