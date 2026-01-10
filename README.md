@@ -876,7 +876,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [rossskkki](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/rossskkki.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [zouw0174-code](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/zouw0174-code.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [jiangxiyue19](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/jiangxiyue19.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [jk416](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/jk416.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
