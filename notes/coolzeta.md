@@ -1,0 +1,20 @@
+---
+timezone: UTC+8
+---
+
+# Zeta Zhang
+
+**GitHub ID:** coolzeta
+
+**Telegram:** 
+
+## Self-introduction
+
+入职香港合规交易所开发不久 目前想更深入了解一些web3的技术 最近再搞ai agent对每天的crypto news做聚合和摘要，方便最新信息快速获取
+
+## Notes
+
+<!-- Content_START -->
+
+
+<!-- Content_END -->
