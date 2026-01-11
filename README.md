@@ -1215,7 +1215,11 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [fylcr](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/fylcr.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [muxin-web3](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/muxin-web3.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [web3kol](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/web3kol.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [OldYellowBull](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/OldYellowBull.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [guarenweiwenhou](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/guarenweiwenhou.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [AprilWang-412](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/AprilWang-412.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
