@@ -1080,7 +1080,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [LittleModesty](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/LittleModesty.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Jack-OuCJ](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Jack-OuCJ.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [weleuther900-arch](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/weleuther900-arch.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [TammyCAmt](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/TammyCAmt.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
