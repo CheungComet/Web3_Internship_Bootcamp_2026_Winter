@@ -1252,7 +1252,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [yihanjiao33-cmd](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yihanjiao33-cmd.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [RgnahZ](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/RgnahZ.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [roral2](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/roral2.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Freya-OvO-moon](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Freya-OvO-moon.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
