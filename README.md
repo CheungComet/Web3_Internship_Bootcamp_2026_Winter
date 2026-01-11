@@ -1074,7 +1074,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [dreamR-cmd](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/dreamR-cmd.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [sipinglin](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/sipinglin.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [ProfGamer](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ProfGamer.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [eureka1d2](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/eureka1d2.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
