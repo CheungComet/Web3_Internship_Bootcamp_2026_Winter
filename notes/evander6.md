@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-UIBE FTA cofounder，web3 builder&learner
+UIBE FTA cofounder，擅长做投研分析，也会玩点vibe coding
 
 ## Notes
 
