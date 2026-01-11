@@ -1245,7 +1245,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [liyunying73-debug](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/liyunying73-debug.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Bern3rsH](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Bern3rsH.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [XiaokunDuan](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/XiaokunDuan.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [hera944](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/hera944.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
