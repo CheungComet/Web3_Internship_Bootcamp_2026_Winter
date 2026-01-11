@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-prev CEX Smart Contract Engineer
+参加过黑客松，做过合约开发
 
 ## Notes
 
