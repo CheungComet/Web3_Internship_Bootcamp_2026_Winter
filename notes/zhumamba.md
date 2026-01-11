@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-Web3 实习计划 2025 冬季实习生
+软件工程背景大学生，具备中日英三语能力，学习web3运营方向中
 
 ## Notes
 
