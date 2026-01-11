@@ -1099,7 +1099,10 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [User197699](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/User197699.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Tadaaaaaaaaa](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Tadaaaaaaaaa.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [J2213612394](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/J2213612394.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [zoeyshou](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/zoeyshou.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [michelQ](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/michelQ.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
