@@ -15,6 +15,8 @@ timezone: UTC+13
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+开始打卡了，我测试一下先
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
