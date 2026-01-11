@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-Web3 实习计划 2025 冬季实习生
+港城中文硕，国企实习中，remote项目运营，日常弹吉他、吹口琴
 
 ## Notes
 
