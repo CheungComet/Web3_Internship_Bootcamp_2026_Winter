@@ -17,14 +17,6 @@ timezone: UTC+8
 <!-- Content_START -->
 # 2026-01-12
 <!-- DAILY_CHECKIN_2026-01-12_START -->
-## **准备：**
-
-**以太坊智能合约开发基础**: [https://learnblockchain.cn/article/22542?course\_id=93](https://learnblockchain.cn/article/22542?course_id=93)
-
-**IDE**: Remix [https://remix.ethereum.org/](https://remix.ethereum.org/)
-
-**MetaMask** 钱包: [https://metamask.io/zh-CN/download](https://metamask.io/zh-CN/download)
-
 NaN.  **合约基础结构** Solidity 合约是部署到区块链的最小单元，类似其他语言的`class`，核心由**状态变量**（存储合约数据）和**合约函数**（处理数据逻辑）组成。 编写合约需先通过`pragma solidity`声明编译器版本（如`pragma solidity >=0.8.0;`）。
       
 NaN.  **核心组件解析**
