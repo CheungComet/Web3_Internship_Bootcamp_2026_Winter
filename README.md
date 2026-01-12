@@ -427,7 +427,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [yan236](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yan236.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Coooder-Crypto](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Coooder-Crypto.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [ShawnX-F](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ShawnX-F.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [ehxu](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ehxu.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [ehxu](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ehxu.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [qinyh10300](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/qinyh10300.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [njuer-naive](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/njuer-naive.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yuanxuejpjp](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yuanxuejpjp.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1274,6 +1274,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [Jessiexu000-spec](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Jessiexu000-spec.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [tianfangle](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/tianfangle.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
