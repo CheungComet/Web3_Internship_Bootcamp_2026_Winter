@@ -15,6 +15,8 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+今天把训练营的课程进行收听
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
