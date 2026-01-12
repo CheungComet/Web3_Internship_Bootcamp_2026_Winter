@@ -92,5 +92,51 @@ Web3 实习计划 2025 冬季实习生
   "v": 28
 }
 ```
+
+# **转测试币练习**
+
+## 1\. 打开钱包点击发送
+
+![QQ_1768202253475.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/gnihTehT/images/2026-01-12-1768202256483-QQ_1768202253475.png)
+
+## 2\. 选择SepoliaETH
+
+![QQ_1768202286051.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/gnihTehT/images/2026-01-12-1768202289155-QQ_1768202286051.png)
+
+## 3\. 输入钱包地址并继续
+
+![QQ_1768202306857.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/gnihTehT/images/2026-01-12-1768202309830-QQ_1768202306857.png)
+
+## 4\. 点`活动`可以查看状态
+
+![QQ_1768202330049.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/gnihTehT/images/2026-01-12-1768202338716-QQ_1768202330049.png)
+
+## 5\. 点击这个状态然后`在区块浏览器上查看`
+
+![QQ_1768202389649.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/gnihTehT/images/2026-01-12-1768202394518-QQ_1768202389649.png)
+
+## 6.复制**Transaction Hash**即可提交作业
+
+![QQ_1768202463799.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/gnihTehT/images/2026-01-12-1768202468191-QQ_1768202463799.png)
+
+## 名词解释：
+
+**Etherscan**以太坊区块链浏览器
+
+**Etherscan tx link**是某一笔链上交易的“官方浏览器页面链接”
+
+每笔交易都有一个**Transaction Hash**交易哈希
+
+把它丢进 **Etherscan**，就能看到：
+
+-   谁 → 给谁
+    
+-   干了什么
+    
+-   调了哪个合约
+    
+-   授权了什么
+    
+-   成功还是失败
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
