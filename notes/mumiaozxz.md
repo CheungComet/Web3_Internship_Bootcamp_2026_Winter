@@ -15,6 +15,10 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+-   观看开营仪式录像，了解训练营内容、学习方式；
+    
+-   注册X，关注账号。
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
