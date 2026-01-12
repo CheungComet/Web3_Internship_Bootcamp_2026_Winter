@@ -2,9 +2,9 @@
 timezone: UTC+8
 ---
 
-# lingyuzz
+# EchonetHoward
 
-**GitHub ID:** lingyuzz
+**GitHub ID:** EchonetHoward
 
 **Telegram:** 
 
