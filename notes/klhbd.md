@@ -117,6 +117,32 @@ _△ 区块链像一个“全民共享的公共账本”，它的运行依赖一
 
 来源：[https://web3intern.xyz/zh/blockchain-basic/#%E5%9B%9B%E3%80%81web3-vs-web-3-0-vs-web2-%E7%9A%84%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BD](https://web3intern.xyz/zh/blockchain-basic/#%E5%9B%9B%E3%80%81web3-vs-web-3-0-vs-web2-%E7%9A%84%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BD)
 
+**⭐web3：**
+
+-   **区块链驱动的革命**
+    
+-   优势：金融、产权、隐私场景
+    
+-   劣势：不适合高频社交（微博等）
+    
+-   渐进式过渡：web2→web2.5→web3
+    
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/klhbd/images/2026-01-12-1768205296646-image.png)
+
+web3核心组件：
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/klhbd/images/2026-01-12-1768205318128-image.png)
+
 DApp（ Decentralized Application，去中心化应用）是基于区块链技术构建的应用程序，其核心特点是**去中心化**和**开源**。与传统应用不同，DApp的后端代码运行在去中心化的区块链网络上，而不是集中式服务器上。
+
+六、去中心化的优势与挑战
+
+| 优势 | 挑战 |
+| --- | --- |
+| 信任最小化 | 可扩展性瓶颈（公链吞吐量和延迟问题突出） |
+| 抗审查与高弹性 | 安全域治理难题（代码漏洞或治理失衡可能导致严重损失） |
+| 用户自主管理 | 用户体验与成本（易用性相对不高） |
+| 开放创新生态 | 法律与合规风险 |
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
