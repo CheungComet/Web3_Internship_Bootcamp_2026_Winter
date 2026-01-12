@@ -10,7 +10,9 @@ timezone: UTC+8
 
 ## Self-introduction
 
-在读本科，base上海，喜欢把复杂的东西简单化系统化，欢迎交友共学！
+Web3新人 INTP/base上海 
+爱好: 单机游戏 JRPG 同人音乐
+喜欢把复杂的东西简单化
 
 ## Notes
 
